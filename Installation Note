@@ -1,0 +1,4 @@
+1.  Install XAMPP with PHP v8 Higher, Nodejs, Composer & MySQL Workbench  
+2.  In MySQL Workbench, create a database name "osca"
+2.  Open Text Code Editor and look for .env file and edit the connection below.
+    - host, database credentials
